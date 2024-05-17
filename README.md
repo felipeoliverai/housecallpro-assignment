@@ -75,4 +75,6 @@ python main.py ga_sessions.gz
 All the dependencies and packages used in this solution are python native libraries. 
 <br>
 
+There is a folder **output_files** with output examples of the code output.
+
 <br>
